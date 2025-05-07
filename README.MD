@@ -4,9 +4,7 @@ Este repositório contém materiais de estudo e exercícios práticos relacionad
 
 ## 🎓 Sobre o Curso
 
-Este projeto faz parte da minha jornada na **Pós-Graduação em Automação de Testes de Software (PGATS)**, ministrada por **Júlio de Lima** e **Samuel Lucas**.
-
-- **Júlio de Lima**: QA Manager na Capco (EUA), bacharel em Engenharia de Software, mestre em Engenharia Elétrica e Computação com foco em IA, palestrante internacional e atuante em projetos diversos na área de testes de software nos Estados Unidos da América. :contentReference[oaicite:0]{index=0}
+Este projeto faz parte da minha jornada na **Pós-Graduação em Automação de Testes de Software (PGATS)**, coordenada por **Júlio de Lima**. A disciplina de **Programação para Automação de Testes** é ministrada exclusivamente por **Samuel Lucas**.
 
 - **Samuel Lucas**: Lead QA Engineer na CWI, formado em Sistemas para a Internet pelo IFRS, especialista em automação de testes, palestrante, professor alumni na Pós-Graduação em Automação de Testes de Software (PGATS) e embaixador do Cypress no Brasil.
 
